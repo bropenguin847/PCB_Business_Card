@@ -18,3 +18,12 @@ https://www.instructables.com/Digital-Business-Card-With-NFC/
 https://www.instructables.com/How-to-Make-a-PCB-Business-Card/
 
 https://www.instructables.com/PCB-Business-Card-With-NFC-Make-Yours-With-NFC-QR-/
+
+Want:
+1)Formal Business Card <br>
+Have Logo, Have LinkedIn QR, Have name, have M3 mounting hole, Have phone number @ email <br>
+Have ruler<br>credit card size and thickness <br>
+no circuit
+<br>
+2)Circuit card<br>
+Have nfc circuit, led
