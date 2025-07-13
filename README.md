@@ -26,4 +26,7 @@ Have ruler<br>credit card size and thickness <br>
 no circuit
 <br>
 2)Circuit card<br>
-Have nfc circuit, led
+Have nfc circuit, led<br>
+3)PCB Ruler Card<br>
+have mounting hole, different package sizes and have in cm and inch, less rounded corner for better accuracy<br>
+maybe have another ruler that is longer and less wide
