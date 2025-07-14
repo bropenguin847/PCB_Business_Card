@@ -30,3 +30,14 @@ Have nfc circuit, led<br>
 3)PCB Ruler Card<br>
 have mounting hole, different package sizes and have in cm and inch, less rounded corner for better accuracy<br>
 maybe have another ruler that is longer and less wide
+
+---
+Used references:
+https://www.pcbcart.com/article/content/copper-trace-and-capacity-relationship.html
+<br>
+https://oshwlab.com/JazekerXX/pcb-ruler
+<br>
+https://oshwlab.com/Timmy29965/pcb-lineal
+<br>
+https://www.adafruit.com/product/1554
+
