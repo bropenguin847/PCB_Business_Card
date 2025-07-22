@@ -5,7 +5,6 @@ A collection of the PCB business card that I have created.
 links:
 https://github.com/JLCPCB/PCB-Business-card?tab=readme-ov-file
 
-https://www.salvagedcircuitry.com/pcb-business-card.html
 
 https://www.techadjacent.io/p/perfect-business-card-pcb-circuit-board
 
@@ -32,7 +31,7 @@ have mounting hole, different package sizes and have in cm and inch, less rounde
 maybe have another ruler that is longer and less wide
 
 ---
-Used references:
+Used references:<br>
 https://www.pcbcart.com/article/content/copper-trace-and-capacity-relationship.html
 <br>
 https://oshwlab.com/JazekerXX/pcb-ruler
@@ -40,4 +39,11 @@ https://oshwlab.com/JazekerXX/pcb-ruler
 https://oshwlab.com/Timmy29965/pcb-lineal
 <br>
 https://www.adafruit.com/product/1554
+<br>
+https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-sizes-and-packages/
+<br>
+https://www.salvagedcircuitry.com/pcb-business-card.html
+<br>
+https://jlcpcb.com/parts
+
 
