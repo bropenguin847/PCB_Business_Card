@@ -1,5 +1,5 @@
 ![Thumbnail](/Assets/easyEDA workspace.png)
-
+<img src="images\syntax_reference.png" alt="syntax_reference"><br>
 ---
 # Purpose
 Designing a unique business card with my personal details for networking.
@@ -38,5 +38,5 @@ References:<br>
 [Order parts for reference in JLC](https://jlcpcb.com/parts)<br>
 
 ### Assets
-All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/Assets).
+All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/Assets).<br>
 [Gerber Files](https://github.com/bropenguin847/PCB_Business_Card/blob/main/Assets/Gerber_Business_Card_Ruler.zip)
