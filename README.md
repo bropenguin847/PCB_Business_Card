@@ -45,5 +45,15 @@ https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-sizes-a
 https://www.salvagedcircuitry.com/pcb-business-card.html
 <br>
 https://jlcpcb.com/parts
-
+<br>
+https://github.com/OSHW/logo
+<br>
+https://easyeda.com/page/download
+<br>EEV Blog
+https://www.eevblog.com/oshw/
+<br>logo generator
+https://maciek134.github.io/oshw-logo-gen/
+<br>
+<br>
+<br>
 
