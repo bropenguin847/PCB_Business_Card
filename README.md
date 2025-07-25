@@ -27,33 +27,5 @@ no circuit
 2)Circuit card<br>
 Have nfc circuit, led<br>
 3)PCB Ruler Card<br>
-have mounting hole, different package sizes and have in cm and inch, less rounded corner for better accuracy<br>
-maybe have another ruler that is longer and less wide
-
----
-Used references:<br>
-https://www.pcbcart.com/article/content/copper-trace-and-capacity-relationship.html
-<br>
-https://oshwlab.com/JazekerXX/pcb-ruler
-<br>
-https://oshwlab.com/Timmy29965/pcb-lineal
-<br>
-https://www.adafruit.com/product/1554
-<br>
-https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-sizes-and-packages/
-<br>
-https://www.salvagedcircuitry.com/pcb-business-card.html
-<br>
-https://jlcpcb.com/parts
-<br>
-https://github.com/OSHW/logo
-<br>
-https://easyeda.com/page/download
-<br>EEV Blog
-https://www.eevblog.com/oshw/
-<br>logo generator
-https://maciek134.github.io/oshw-logo-gen/
-<br>
-<br>
-<br>
+PCB_Business_Card_Ruler.md
 
