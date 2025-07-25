@@ -8,7 +8,7 @@ Open Source my results for people to use and for reference in the future.
 
 ## Characteristics
 1. Have my name, phone number, email address and logo.
-2. Have QR codes to my [Github]() and to my [LinkedIn]().
+2. Have QR codes to my [Github](https://github.com/bropenguin847) and to my [LinkedIn](https://www.linkedin.com/in/lim-yeow-sheng/).
 3. Have a ruler for on the spot measuring (centimeter and inch).
 4. Have a reference for common SMD Footprints and Traces, as well as their respective details.
 
@@ -19,6 +19,7 @@ Open Source my results for people to use and for reference in the future.
 
 ## Final Product
 (still waiting for the PCBs to arrive from JLC, will update soon...)
+Price + Shipping : 
 
 ## Software and References
 This PCB was designed using easyEDA software. I am using the free version, [which is available here](https://easyeda.com/page/download).
