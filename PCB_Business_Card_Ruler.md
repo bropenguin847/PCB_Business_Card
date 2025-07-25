@@ -1,5 +1,5 @@
-![Thumbnail](/Assets/easyEDA workspace.png)
-<img src="images\syntax_reference.png" alt="syntax_reference"><br>
+![Thumbnail](/assets/easyEDA_workspace.png)
+
 ---
 # Purpose
 Designing a unique business card with my personal details for networking.
@@ -13,8 +13,9 @@ Open Source my results for people to use and for reference in the future.
 4. Have a reference for common SMD Footprints and Traces, as well as their respective details.
 
 ## Result
-![Top Layer](/Assets/Top Layer Ruler.png "Top Layer")
-![Bottom Layer](/Assets/Bottom Layer Ruler.png "Bottom Layer")
+![Top Layer](/assets/Top_Layer_Ruler.png "Top Layer")
+
+![Bottom Layer](/assets/Bottom_Layer_Ruler.png "Bottom Layer")
 
 ## Final Product
 (still waiting for the PCBs to arrive from JLC, will update soon...)
@@ -38,5 +39,5 @@ References:<br>
 [Order parts for reference in JLC](https://jlcpcb.com/parts)<br>
 
 ### Assets
-All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/Assets).<br>
-[Gerber Files](https://github.com/bropenguin847/PCB_Business_Card/blob/main/Assets/Gerber_Business_Card_Ruler.zip)
+All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/assets).<br>
+[Gerber Files](https://github.com/bropenguin847/PCB_Business_Card/blob/main/assets/Gerber_Business_Card_Ruler.zip)
