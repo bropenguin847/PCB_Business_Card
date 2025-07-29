@@ -23,6 +23,8 @@ Price + Shipping :
 
 ## Software and References
 This PCB was designed using easyEDA software. I am using the free version, [which is available here](https://easyeda.com/page/download).
+<br>
+QR Generator: https://qr-code-styling.com/
 
 References:<br>
 [Ruler PCB reference from Salvaged Circuitry](https://www.salvagedcircuitry.com/pcb-business-card.html)<br>
