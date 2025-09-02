@@ -18,8 +18,12 @@ Open Source my results for people to use and for reference in the future.
 ![Bottom Layer](/assets/Bottom_Layer_Ruler.png "Bottom Layer")
 
 ## Final Product
+Quantity: 20 <br>
+Time until arrival: 2 weeks to Malaysia <br>
+Shipping using E-POST because it is the cheapest option. <br>
+Price + Shipping : $13.71 <br>
+
 (still waiting for the PCBs to arrive from JLC, will update soon...)
-Price + Shipping : 
 
 ## Software and References
 This PCB was designed using easyEDA software. I am using the free version, [which is available here](https://easyeda.com/page/download).
@@ -44,3 +48,4 @@ References:<br>
 ### Assets
 All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/assets).<br>
 [Gerber Files](https://github.com/bropenguin847/PCB_Business_Card/blob/main/assets/Gerber_Business_Card_Ruler.zip)
+
