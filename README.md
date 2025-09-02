@@ -7,11 +7,11 @@ This repo consists of a collection of the PCB business cards that I have designe
 
 **Key:** <br>
 S = Schematic <br>
-P = PCB <br>
+**P = PCB <br>**
 F = Firmware and/or software <br>
 M = Mechanical CAD files <br>
-D = Design Documentation <br>
-B = Bill Of Materials <br>
+**D = Design Documentation <br>**
+**B = Bill Of Materials <br>**
 C = License used allows for commercial use <br>
 
 *[Referred EEVBlog's OSHW logo Key](https://www.eevblog.com/oshw/)*
