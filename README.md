@@ -17,11 +17,13 @@ C = License used allows for commercial use <br>
 *[Referred EEVBlog's OSHW logo Key](https://www.eevblog.com/oshw/)*
 
 ## Completed works
+**PCB Business Reference Ruler** <br>
 <img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/>
+
 [PCB Business Ruler](PCB_Business_Card_Ruler.md)
 
-### Version 2
-upcoming...
+### Upcoming ...
+PCB Business Circuit Card
 
 ### References
 https://github.com/JLCPCB/PCB-Business-card?tab=readme-ov-file
