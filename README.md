@@ -1,8 +1,8 @@
 # PCB_Business_Card
 This repo consists of a collection of the PCB business cards that I have designed / will be designed in the future. My main goal with this project is to open source my works that have: PCB, design docs and BOM.
 <p align="center">
-  <img src="assets/oshw.svg" alt="OSHW PDB Logo" width="150"/>
-  <img src="assets/my_logo.png" alt="My Logo" width="150"/>
+  <img src="assets/oshw.svg" alt="OSHW PDB Logo" width="200"/>
+  <img src="assets/My Logo V2.jpg" alt="My Logo" width="200"/>
 </p>
 
 **Key:** <br>
@@ -17,10 +17,13 @@ C = License used allows for commercial use <br>
 *[Referred EEVBlog's OSHW logo Key](https://www.eevblog.com/oshw/)*
 
 ## Completed works
-**PCB Business Reference Ruler** <br>
-<img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/>
+### Version 2
+<!-- <img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/> -->
+**[PCB Business Reference Ruler V2](PCB_Business_Card_Ruler_v2.md)**
 
-[PCB Business Ruler](PCB_Business_Card_Ruler.md)
+### Version 1
+<img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/>
+**[PCB Business Reference Ruler](PCB_Business_Card_Ruler.md)**
 
 ### Upcoming ...
 PCB Business Circuit Card
