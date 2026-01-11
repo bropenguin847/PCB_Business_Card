@@ -18,11 +18,13 @@ C = License used allows for commercial use <br>
 
 ## Completed works
 ### Version 2
-<!-- <img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/> -->
+<img src="assets/PCB_Business_Ruler_v2_back.png" alt="Bottom Layer Ruler v2" width="350"/>
+
 **[PCB Business Reference Ruler V2](PCB_Business_Card_Ruler_v2.md)**
 
 ### Version 1
-<img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="300"/>
+<img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer Ruler" width="350"/>
+
 **[PCB Business Reference Ruler](PCB_Business_Card_Ruler.md)**
 
 ### Upcoming ...
