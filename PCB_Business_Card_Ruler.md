@@ -1,4 +1,7 @@
-![Thumbnail](/assets/easyEDA_workspace.png)
+<p>
+  <img src="assets/pcb_result.jpg" alt="Actual Look" width="300">
+  <img src="assets/easyEDA_workspace.png" alt="Thumbnail" width="500">
+</p>
 
 ---
 # Purpose
@@ -13,17 +16,22 @@ Open Source my results for people to use and for reference in the future.
 4. Have a reference for common SMD Footprints and Traces, as well as their respective details.
 
 ## Result
-![Top Layer](/assets/Top_Layer_Ruler.png "Top Layer")
+<p align="center">
+  <img src="assets/Top_Layer_Ruler.png" alt="Top Layer" width="400">
+  <img src="assets/Bottom_Layer_Ruler.png" alt="Bottom Layer" width="400">
+</p>
 
-![Bottom Layer](/assets/Bottom_Layer_Ruler.png "Bottom Layer")
-
-## Final Product
+---
+# Final Product
 Quantity: 20 <br>
 Time until arrival: 2 weeks to Malaysia <br>
 Shipping using E-POST because it is the cheapest option. <br>
-Price + Shipping : $13.71 <br>
+Price + Shipping : $13.71 (~RM60 or ~RM3 per unit) <br>
 
-(still waiting for the PCBs to arrive from JLC, will update soon...)
+<p align="center">
+  <img src="assets/closeup_front.jpg" alt="Result Top Layer" width="500">
+  <img src="assets/closeup_back.jpg "Result Bottom Layer" alt="Result Bottom Layer" width="500">
+</p>
 
 ## Software and References
 This PCB was designed using easyEDA software. I am using the free version, [which is available here](https://easyeda.com/page/download).
@@ -48,4 +56,5 @@ References:<br>
 ### Assets
 All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/assets).<br>
 [Gerber Files](https://github.com/bropenguin847/PCB_Business_Card/blob/main/assets/Gerber_Business_Card_Ruler.zip)
+
 
