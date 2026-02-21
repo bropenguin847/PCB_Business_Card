@@ -1,4 +1,4 @@
-![Thumbnail](/assets/workspace_v2.png)
+![Thumbnail](/assets/PCB_Business_Ruler_v2_final_3.JPG)
 
 ---
 ## Purpose
@@ -23,14 +23,14 @@ WDXL_Lubrifont_SC
 Logo: Updated logo to V2
 
 ## Results
-![Top Layer](/assets/PCB_Business_Ruler_v2_front.png "Top Layer")
+<img alt="Top Layer" src="/assets/PCB_Business_Ruler_v2_front.png" style="width: 75%;">
 
-![Bottom Layer](/assets/PCB_Business_Ruler_v2_back.png "Bottom Layer")
+<img alt="Bottom Layer" src="/assets/PCB_Business_Ruler_v2_back.png" style="width: 75%;">
 
 ## Final look
-![Final Look 1](/assets/PCB_Business_Ruler_v2_final_1.png "Final 1")
+<img alt="FinalLook1" src="/assets/PCB_Business_Ruler_v2_final_1.JPG" style="width: 50%; border-radius: 20px;">
 
-![Final Look 2](/assets/PCB_Business_Ruler_v2_final_2.png "Final 2")
+<img alt="FinalLook2" src="/assets/PCB_Business_Ruler_v2_final_2.JPG" style="width: 50%; border-radius: 20px;">
 
 ---
 
@@ -51,3 +51,4 @@ Logo: Updated logo to V2
 All assets for this project can be found [here](https://github.com/bropenguin847/PCB_Business_Card/tree/main/assets)
 
 Designed using [easyEDA STD. (Free)](https://easyeda.com/page/download)
+
